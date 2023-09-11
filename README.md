@@ -1,0 +1,1 @@
+<bpt xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;a href="https://github.com/PowerShell/PowerShell/releases/download/v7.3.6/PowerShell-7.3.6-win-x64.msi" data-linktype="external"&gt;</bpt>PowerShell-7.3.6-win-x64.msi<ept xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;/a&gt;</ept>
